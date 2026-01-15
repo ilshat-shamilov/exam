@@ -1,0 +1,10 @@
+[
+    {"user_id": 1, "product": "Ноутбук", "amount": 850.50},
+    {"user_id": 1, "product": "Мышь", "amount": 25.99},
+    {"user_id": 2, "product": "Смартфон", "amount": 450.00},
+    {"user_id": 3, "product": "Планшет", "amount": 1200.00},
+    {"user_id": 3, "product": "Чехол", "amount": 15.50},
+    {"user_id": 4, "product": "Наушники", "amount": 150.00},
+    {"user_id": 1, "product": "Клавиатура", "amount": 399.99},
+    {"user_id": 3, "product": "Монитор", "amount": 320.75}
+]

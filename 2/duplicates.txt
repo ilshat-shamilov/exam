@@ -1,0 +1,3 @@
+ERROR: Failed to connect to database
+INFO: User login successful
+WARNING: High CPU usage
